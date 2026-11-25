@@ -126,7 +126,7 @@ Tata-1mg-SQL-Data-Analysis/
 │
 ├── tata1mg_db.sql
 │
-├── TATA 1MG_ DATA_ANALYSIS.sql
+├── Healthops_Analytics.sql
 │
 ├── README.md
 │
@@ -141,7 +141,7 @@ Tata-1mg-SQL-Data-Analysis/
 2. Open MySQL Workbench and connect to your MySQL server.
 3. Open `tata1mg_db.sql`.
 4. Execute the SQL script to create the database, tables, relationships, and populate the simulated dataset.
-5. Open `TATA 1MG_ DATA_ANALYSIS.sql`.
+5. Open `Healthops_Analytics.sql`.
 6. Execute the analysis queries to explore the business questions and generate insights.
 
 **Important:** The database creation script contains `DROP DATABASE IF EXISTS tata1mg_db`. Running it again will delete and recreate the existing database.
