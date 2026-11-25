@@ -46,7 +46,7 @@ The database consists of 10 relational tables:
 
 The following diagram illustrates the database schema, including the tables, key fields, and relationships used throughout the project.
 
-![Tata 1mg Entity Relationship Diagram](eer-diagram.png)
+!(EER DIAGRAM.png)
 
 ## Project Workflow
 
